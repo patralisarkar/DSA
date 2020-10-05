@@ -102,5 +102,7 @@ void reverse()
             q=root;       }
         
     }
+    
+    // all fns
 
 
