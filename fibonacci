@@ -1,4 +1,4 @@
-# Function for nth Fibonacci number 
+# Function for nth Fibonacci numbe
 #bahut dimag h
   
 def Fibonacci(n): 
