@@ -1,5 +1,4 @@
-# Function for nth Fibonacci numbe
-#bahut dimag h
+
   
 def Fibonacci(n): 
     if n<0: 
