@@ -1,4 +1,4 @@
-//Program for single linked-list implimentation
+
 #include<stdio.h>
 
 printf("\n");
