@@ -1,4 +1,4 @@
-//checking equal no of paranthesis
+
 if(a[i]=='}'&&(t=='('||t=='['))
 f=0;
 if(a[i]==']'&&(t=='{'||t=='('))
